@@ -113,16 +113,6 @@ Converts the text response from GPT-4o to speech using ElevenLabs. It supports c
 
 Handles storing and retrieving conversation embeddings using FAISS. It timestamps each conversation and retrieves relevant past interactions to provide context for responses.
 
-### Running the Tests
-
-To run the tests for each module, use the following command:
-
-```bash
-python -m unittest discover tests
-```
-
-This will discover and run all the unit tests in the `tests` directory.
-
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
