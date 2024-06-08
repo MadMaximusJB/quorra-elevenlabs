@@ -4,3 +4,8 @@ SpeechRecognition==3.8.1
 pyaudio==0.2.11
 faiss-cpu==1.7.2
 keyboard==0.13.5
+portaudio19-dev
+libsndfile1-dev
+libfaiss-dev
+build-essential
+swig
