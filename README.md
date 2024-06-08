@@ -21,8 +21,8 @@ This project is a custom voice assistant using GPT-4o and ElevenLabs for advance
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/voice_assistant.git
-    cd voice_assistant
+    git clone https://github.com/madmaximusjb/quorra.git
+    cd quorra
     ```
 
 2. **Create a virtual environment (optional but recommended):**
