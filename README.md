@@ -1,14 +1,12 @@
 # quorra
 
-This project is a custom voice assistant using GPT-4o and ElevenLabs for advanced voice and text interaction. It features long-term memory by vectorizing conversations and recalling relevant past interactions.
+This project is a custom voice assistant using GPT-4o and ElevenLabs for advanced voice and text interaction.
 
 ### Features
 
 - Voice input with keyboard shortcut (F9)
 - Text processing using GPT-4o
 - Text-to-speech using ElevenLabs
-- Long-term memory with timestamped conversations
-- Recall of relevant past interactions using vector embeddings
 
 ### Prerequisites
 
