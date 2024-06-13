@@ -1,12 +1,13 @@
 # quorra
 
-This project is a custom voice assistant using GPT-4o and ElevenLabs for advanced voice and text interaction.
+This project is a custom voice assistant using GPT-4o and ElevenLabs for advanced voice and text interaction. It also features streaming audio from ElevenLabs to help with latency for larger responses.
 
 ### Features
 
 - Voice input with keyboard shortcut (F9)
 - Text processing using GPT-4o
 - Text-to-speech using ElevenLabs
+- Stream audio from ElevenLabs for low latency
 
 ### Prerequisites
 
