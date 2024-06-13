@@ -1,4 +1,4 @@
-openai==0.8.0
+openai==1.2.0
 elevenlabs
 SpeechRecognition==3.8.1
 keyboard==0.13.5
