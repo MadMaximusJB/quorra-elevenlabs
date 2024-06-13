@@ -5,7 +5,7 @@ def get_audio_input():
     recognizer = sr.Recognizer()
     mic = sr.Microphone()
 
-    print("Press and hold F9 to start listening...")
+    print("Press and hold the F9 key to start listening...")
     keyboard.wait('F9')
     print("Listening...")
 

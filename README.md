@@ -77,14 +77,6 @@ quorra/
 │   ├── audio_input.py      # Module to handle audio input
 │   ├── text_processing.py  # Module to process text using GPT-4o
 │   ├── text_to_speech.py   # Module to convert text to speech using ElevenLabs
-│   ├── memory.py           # Module to handle memory with vector embeddings
-│
-└── tests/                  # Unit tests for the project
-    ├── __init__.py         # Init file for tests package
-    ├── test_audio_input.py # Tests for audio input module
-    ├── test_text_processing.py # Tests for text processing module
-    ├── test_text_to_speech.py  # Tests for text to speech module
-    ├── test_memory.py      # Tests for memory module
 ```
 
 ### Details of Each Module
