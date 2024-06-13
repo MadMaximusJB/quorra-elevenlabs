@@ -105,10 +105,6 @@ Processes the text input using GPT-4o. It combines the initial instructions with
 
 Converts the text response from GPT-4o to speech using ElevenLabs. It supports custom voices by specifying a voice ID.
 
-#### `utils/memory.py`
-
-Handles storing and retrieving conversation embeddings using FAISS. It timestamps each conversation and retrieves relevant past interactions to provide context for responses.
-
 ### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
