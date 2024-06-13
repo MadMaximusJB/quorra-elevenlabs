@@ -32,7 +32,7 @@ This project is a custom voice assistant using GPT-4o and ElevenLabs for advance
 
 3. **Install the required packages:**
 
-    Install mpv (unofficial) through the Microsoft store or from the mpv homepage for Linux.
+    **Manually install mpv (unofficial) through the Microsoft store or from the mpv homepage for Linux.**
 
     ```bash
     pip install pyaudio
