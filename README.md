@@ -1,5 +1,7 @@
 # quorra-elevenlabs
 
+**This project is no longer maintained. For a maintained and cheaper alternative, please visit:**
+
 This project is a custom voice assistant using GPT-4o and ElevenLabs for advanced voice and text interaction. It also features streaming audio from ElevenLabs to help with latency for larger responses.
 
 ### Features
